@@ -38,7 +38,7 @@ Before modeling, the data underwent rigorous cleaning to improve reliability:
 ---
 
 ##  Evaluation Criteria and Results (Section C)
-Two primary models were evaluated using **Rolling Window Cross-Validation** to ensure realistic time-series predictions[cite: 70, 81].
+Two primary models were evaluated using **Rolling Window Cross-Validation** to ensure realistic time-series predictions.
 
 ### Model Comparison Table
 | Model | $R^2$ Score | Performance Summary |
